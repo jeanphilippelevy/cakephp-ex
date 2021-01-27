@@ -2,7 +2,7 @@
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
               <h2>This is a sample PHP application, connected to a mysql DB</h2>
-                <p>This is a sample text - version 7</p>
+                <p>This is a sample text - version 8</p>
 
 
                 <p>Page view count:
